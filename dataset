@@ -1,0 +1,2 @@
+The SNLI dataset used in this study is publicly available at: https://nlp.stanford.edu/projects/snli/. Download the dataset and place it in the same directory as the code or specify its path as needed.
+
